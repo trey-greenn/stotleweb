@@ -1,0 +1,79 @@
+I want to become a 0.001% Software Engineer - Comupter Scientist. I currently have a Software Engineering job. Have multiple sideprojects buliding digital apps. Combine this with the desire to master abstract coding technique and concept like, 8090 Top Coder Challenge: The Need for speed, Scott Wu - Devin AI founder, or a top Leet Coder.
+
+Tech I want to master in the next 100/14 Weeks: React/Next JS, TypeScript, Python, C++, Machine Learning, Data Structures and Algorithims, Software Engineering.
+
+Come up with a 14 week study plan where I can master my desired interest. Come from a perspective of this is a semester of self learning. Where I need to test my self and have a final or like last project that encompasses all of the interest. What should my weekly schedule and focus be like for the next 14 weeks.
+
+14-Week In-Depth Study Plan
+Weekly Structure
+Weekdays: 2-3 hours of focused study per day
+Weekends: 4-6 hours per day for project work and deep learning
+Daily: 1 hour for algorithm practice (LeetCode/TopCoder)
+Week 1-2: React & Next.js
+Focus: Modern React patterns, Next.js features, and server-side rendering
+Project: Build a personal portfolio site with dynamic content using Next.js
+Algorithms: Array and string manipulation problems
+Daily Practice: Create small components using React Server Components
+Resources: Next.js documentation, Kent C. Dodds' Epic React
+Week 3-4: TypeScript Mastery
+Focus: Advanced TypeScript patterns, generics, and utility types
+Project: Convert the Week 1-2 project to strict TypeScript
+Algorithms: Linked lists and recursion problems
+Daily Practice: Refactor JavaScript code to TypeScript with strong typing
+Resources: TypeScript documentation, Matt Pocock's tutorials
+Week 5-6: Modern UI & State Management
+Focus: Tailwind CSS, Shadcn UI, Zustand, and TanStack Query
+Project: Develop an interactive dashboard with data visualization
+Algorithms: Trees and graph algorithms
+Daily Practice: Create reusable UI components with state management
+Resources: Tailwind CSS documentation, Zustand documentation
+Week 7-8: Python & Machine Learning Fundamentals
+Focus: Python basics, NumPy, Pandas, and introductory machine learning
+Project: Data analysis tool with a Python backend
+Algorithms: Dynamic programming problems
+Daily Practice: Implement basic ML algorithms from scratch
+Resources: FastAI course, Hands-On Machine Learning book
+Week 9-10: C++ & Systems Programming
+Focus: C++ syntax, memory management, and optimization techniques
+Project: Implement a high-performance algorithm
+Algorithms: Advanced graph algorithms and competitive programming
+Daily Practice: Implement data structures from scratch
+Resources: C++ Primer, Competitive Programmer's Handbook
+Week 11-12: Full-Stack Integration
+Focus: API design, system architecture, and performance optimization
+Project: Full-stack application integrating previous components
+Algorithms: Advanced algorithms (network flow, segment trees)
+Daily Practice: System design problems and implementation
+Resources: System Design Interview books, Alex Xu's materials
+Week 13-14: Capstone Project
+Focus: Building a comprehensive application that demonstrates all skills
+Project: AI-enhanced web application with:
+Next.js frontend with TypeScript
+Python ML backend service
+C++ performance-critical components
+Advanced algorithms for data processing
+Final Assessment: Complete all components and deploy
+Continuous Assessment Methods
+Weekly coding challenges from TopCoder/LeetCode
+GitHub repository with daily commits
+Documentation of learning in a digital garden/blog
+Peer review of code through open source contributions
+Success Metrics
+Complete 150+ algorithm problems
+Build 5+ significant projects
+Contribute to 2-3 open source projects
+Create a portfolio showcasing your evolution
+This plan is designed to balance theoretical understanding with practical implementation, pushing you toward becoming a top-tier software engineer.
+
+
+| Week      | Focus Area                                           | Topics                                                                                                                                                    |
+| --------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1–2**   | **React & Next.js** + **Arrays & Strings**           | LeetCode fundamentals: arrays, strings, two pointers, sliding window, prefix sum, hash tables. Use curated lists like Blind 75/Top 100. ([github.com][1]) |
+| **3–4**   | **TypeScript** + **Linked Lists & Recursion**        | LeetCode LinkedList patterns (dummy node, in-place reversal), recursion/backtracking.                                                                     |
+| **5–6**   | **UI & State** + **Trees & Graphs**                  | Patterns: tree (iterative, views), DFS/BFS, union-find, MST/Dijkstra.                                                                                     |
+| **7–8**   | **Python & ML** + **Dynamic Programming**            | DP fundamentals and 20‑pattern DP challenges.                                                                                                             |
+| **9–10**  | **C++ & Systems** + **Advanced Graphs & Heaps**      | Graph patterns, monotonic stacks, top‑K, heap patterns.                                                                                                   |
+| **11–12** | **Full‑Stack Integration** + **Advanced Algorithms** | Network flow, segment trees, intervals, binary search templates, overlapping intervals.                                                                   |
+| **13–14** | **Capstone** + **Review & Pattern Synthesis**        | Cover any gaps: bit manipulation, greedy, tries, backtracking, modified binary search, stock series.                                                      |
+
+[1]: https://github.com/ashishps1/awesome-leetcode-resources?utm_source=chatgpt.com "GitHub - ashishps1/awesome-leetcode-resources: Awesome LeetCode ..."

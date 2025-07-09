@@ -1,0 +1,101 @@
+To-Do
+Study Next.js documentation and build a simple component
+Implement server-side rendering in a small project
+Practice array manipulation problems on LeetCode
+Explore React Server Components and create a demo
+Work on string manipulation problems on LeetCode
+Build a dynamic content page using Next.js
+Review and refactor code for best practices
+Continue building the portfolio site
+Focus on two-pointer problems on LeetCode
+Complete the portfolio site with dynamic content
+Study TypeScript generics and utility types
+Convert JavaScript code to TypeScript
+Practice linked list problems on LeetCode
+Implement recursion problems on LeetCode
+Refactor the portfolio site to use TypeScript
+Explore advanced TypeScript patterns
+Work on backtracking problems on LeetCode
+Review and optimize TypeScript code
+Complete the TypeScript conversion project
+Prepare for the next focus area
+Study Tailwind CSS and create a style guide
+Implement a simple UI component with Tailwind
+Practice tree algorithms on LeetCode
+Explore Zustand for state management
+Work on graph algorithms on LeetCode
+Develop a dashboard with data visualization
+Review and refactor UI components
+Continue building the interactive dashboard
+Focus on DFS/BFS problems on LeetCode
+Complete the dashboard project
+Study Python basics and set up the environment
+Implement basic NumPy operations
+Practice dynamic programming problems on LeetCode
+Explore Pandas for data manipulation
+Work on ML algorithms from scratch
+Develop a data analysis tool with Python
+Review and optimize Python code
+Continue building the data analysis tool
+Focus on ML challenges and projects
+Complete the Python backend project
+Study C++ syntax and memory management
+Implement a simple C++ program
+Practice advanced graph problems on LeetCode
+Explore optimization techniques in C++
+Work on competitive programming challenges
+Develop a high-performance algorithm
+Review and refactor C++ code
+Continue building the C++ project
+Focus on heap patterns and problems
+Complete the C++ project
+Study API design and system architecture
+Implement a simple API with Node.js
+Practice network flow problems on LeetCode
+Explore performance optimization techniques
+Work on segment tree problems on LeetCode
+Develop a full-stack application
+Review and optimize the application
+Continue building the full-stack project
+Focus on system design challenges
+Complete the full-stack application
+Plan the comprehensive application
+Set up the Next.js frontend with TypeScript
+Implement the Python ML backend service
+Develop C++ performance-critical components
+Work on advanced algorithms for data processing
+Integrate all components into a single application
+Review and optimize the entire application
+Continue building and testing the application
+Focus on deployment and scaling challenges
+Complete the capstone project
+Cover any gaps in knowledge
+Study bit manipulation techniques
+Practice greedy algorithms on LeetCode
+Explore trie data structures
+Work on backtracking problems
+Study modified binary search techniques
+Focus on stock series problems
+Review and synthesize all patterns
+Prepare for final assessment
+Complete final assessment
+Explore new technologies and trends
+Implement a small project with a new technology
+Study advanced algorithms and data structures
+Work on a challenging problem set
+Review and optimize advanced projects
+Continue exploring advanced topics
+Focus on real-world applications and case studies
+Complete an advanced project
+Prepare for future learning and growth
+Reflect on the 100-day journey
+Review all projects and code
+Prepare a portfolio showcasing your work
+Focus on areas needing improvement
+Complete any unfinished projects
+Prepare for future challenges and opportunities
+Reflect on achievements and set new goals
+Plan the next steps in your learning journey
+Prepare for a presentation or demo
+Complete the final review and reflection
+Celebrate your accomplishments and plan for the future

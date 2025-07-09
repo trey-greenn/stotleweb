@@ -52,7 +52,7 @@ export default function Home() {
           <div className="relative w-[280px] h-[560px] md:w-[320px] md:h-[640px] rounded-[40px] overflow-hidden shadow-2xl border-8 border-gray-800">
             {/* Placeholder for app screenshot - replace with actual image */}
             <div className="absolute inset-0 bg-gradient-to-b from-blue-500 to-purple-600 flex items-center justify-center">
-              <span className="text-white text-xl font-medium">Stotle AI App</span>
+              <Image src="/discover.png" alt="Stotle AI App" width={320} height={640} />
             </div>
           </div>
         </div>
