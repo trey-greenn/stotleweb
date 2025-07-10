@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://stotleai.com
+
+# Sitemaps
+Sitemap: https://stotleai.com/sitemap.xml
