@@ -48,7 +48,7 @@ async function getBlogPost(slug: string): Promise<BlogPost | null> {
 export async function generateStaticParams() {
   const supabase = createBlogServerClient();
   const { data } = await supabase
-    .from('blog_posts_buffet')
+    .from('blog_posts_stotle')
     .select('slug')
     .eq('is_published', true);
     

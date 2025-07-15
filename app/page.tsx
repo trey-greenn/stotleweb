@@ -17,7 +17,7 @@ export default function Home() {
           <a href="#benefits" className="hover:text-blue-600 transition-colors">Benefits</a>
         </nav>
         <Link 
-          href="#download"
+          href="https://apps.apple.com/us/app/stotle/id6747648204"
           className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors"
         >
           Download App
@@ -35,7 +35,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Link 
-              href="#download"
+              href="https://apps.apple.com/us/app/stotle/id6747648204"
               className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full text-center font-medium transition-colors"
             >
               Get Started

@@ -25,7 +25,7 @@ async function getBlogPosts(): Promise<BlogPost[]> {
   console.log('Supabase client created');
   
   try {
-    console.log('Executing query for blog_posts_buffet table');
+    console.log('Executing query for  table');
     const { data, error } = await supabase
       .from('blog_posts_stotle')
       .select('*')
