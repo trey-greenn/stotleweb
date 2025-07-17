@@ -15,6 +15,8 @@ export default function Home() {
           <a href="#features" className="hover:text-blue-600 transition-colors">Features</a>
           <a href="#how-it-works" className="hover:text-blue-600 transition-colors">How It Works</a>
           <a href="#benefits" className="hover:text-blue-600 transition-colors">Benefits</a>
+          <a href="/blog" className="hover:text-blue-600 transition-colors">Blog</a>
+          <a href="/about" className="hover:text-blue-600 transition-colors">About</a>
         </nav>
         <Link 
           href="https://apps.apple.com/us/app/stotle/id6747648204"
